@@ -9,6 +9,8 @@ should return "0.4.6 etcd". It however does not.
 Investigate the system to uncover what the problem(s) might be. Be prepared to 
 discuss what you find. 
 
+(interviewees: set up the system with interview/devops recipe)
+
 
 Two Lists
 ============
