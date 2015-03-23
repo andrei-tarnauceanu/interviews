@@ -1,3 +1,15 @@
+Dev Ops Interview Module
+===========================
+
+# System Troubleshooting
+
+This system is experiencing a few problems. The command "curl http://localhost/version"
+should return "0.4.6 etcd". It however does not. 
+
+Investigate the system to uncover what the problem(s) might be. Be prepared to 
+discuss what you find. 
+
+
 Two Lists
 ============
 
